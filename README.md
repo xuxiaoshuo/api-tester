@@ -17,7 +17,7 @@ Inspired by [laravel-api-tester](https://github.com/asvae/laravel-api-tester).
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/api-tester -vvv
+$ composer require xxs/api-tester -vvv
 
 $ php artisan vendor:publish --tag=api-tester
 
