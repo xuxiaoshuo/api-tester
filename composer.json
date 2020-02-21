@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/api-tester",
+    "name": "laravel-admin-ext/api-tester-xxs",
     "description": "Api tester for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "api", "tester"],
